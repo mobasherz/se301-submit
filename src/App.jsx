@@ -17,6 +17,7 @@ function App() {
         <img src="/images/setup.jpg" alt="My study setup" />
         <div id="hero-text">
           <h1>Personal Study & Revision Tracker</h1>
+          <h2>CI/CD test verified!</h2>
         </div>
       </header>
 
